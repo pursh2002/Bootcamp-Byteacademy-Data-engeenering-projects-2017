@@ -9,6 +9,7 @@ https://lnkd.in/gvQ24_C
 2. Find a real-world problem (Healthcare, Ecommerce, Advertising, etc..)
 Look for a problem that interests you. 
 List of Datasets: https://lnkd.in/gTft-GV
+https://en.m.wikipedia.org/wiki/List_of_datasets_for_machine_learning_research
 
 3. Exploratory Data Analysis (Python or R)
 Understand what patterns and values your data has. Apply different visualizations and statistical testings to back up our findings. Go out and explore!
