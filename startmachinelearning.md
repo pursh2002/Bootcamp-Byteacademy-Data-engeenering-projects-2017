@@ -8,8 +8,11 @@ https://lnkd.in/gvQ24_C
 
 2. Find a real-world problem (Healthcare, Ecommerce, Advertising, etc..)
 Look for a problem that interests you. 
-List of Datasets: https://lnkd.in/gTft-GV
-https://en.m.wikipedia.org/wiki/List_of_datasets_for_machine_learning_research
+List of Datasets: [https://lnkd.in/gTft-GV
+[https://en.m.wikipedia.org/wiki/List_of_datasets_for_machine_learning_research
+[https://github.com/fivethirtyeight/data?lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3BCKX38FyaQfK3m1qmGSFReQ%3D%3D
+[https://www.kdnuggets.com/2017/12/big-data-free-sources.html?lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3BCKX38FyaQfK3m1qmGSFReQ%3D%3D
+[https://aws.amazon.com/fr/datasets/?lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3BCKX38FyaQfK3m1qmGSFReQ%3D%3D
 
 3. Exploratory Data Analysis (Python or R)
 Understand what patterns and values your data has. Apply different visualizations and statistical testings to back up our findings. Go out and explore!
