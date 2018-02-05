@@ -26,3 +26,34 @@ This is the most important. Document all of your analysis, visualizations, and e
 
 6. Showcase your work
 Share your project with others. Communicate your results & get feedback from the community. This allows you to reflect back on some mistakes you've made and gather further insights to improve on. 
+
+
+Here are some amazing advice for those transitioning into #DataScience:
+
+- - -
+Kyle McKiou - DS Interviews
+https://lnkd.in/gW-EX6B
+
+Sarah Nooravi - Personal Skills
+https://lnkd.in/gRMryge
+
+Beau Walker - How to Gain Experience
+https://lnkd.in/gpetnRY
+
+Eric Weber - DS Companies
+https://lnkd.in/gtdZjq9
+
+Vin Vashishta - DS Interviews & Your Persona
+https://lnkd.in/gpsWmBU
+
+Kevin Tran - How to Land Your 1st DS Job
+https://lnkd.in/g-VHm7M
+
+David Langer - The 80/20 Rule of DS
+https://lnkd.in/gUkiq6X
+
+Favio Vázquez - Persistence 
+https://lnkd.in/grFqywT
+
+Nic Ryan - Your Game Plan
+https://lnkd.in/gsDPAmm
