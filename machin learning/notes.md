@@ -17,3 +17,5 @@ Bonus: Neural networks - https://lnkd.in/gqJkD6Z
 
 The course notes that I personally used to learn machine learning
 ➡ https://lnkd.in/gutByCN ⬅️
+
+https://datascienceintuition.wordpress.com/2017/12/31/optimization-techniques-finding-maxima-and-minima/
