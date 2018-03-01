@@ -1,6 +1,8 @@
-[https://www.youtube.com/watch?v=BZu8jhY5V70&feature=youtu.be
-[https://hackernoon.com/mastering-python-web-scraping-get-your-data-back-e9a5cc653d88
-http://html.python-requests.org/en/latest/
+* [https://www.youtube.com/watch?v=BZu8jhY5V70&feature=youtu.be
+* [https://hackernoon.com/mastering-python-web-scraping-get-your-data-back-e9a5cc653d88
+* http://html.python-requests.org/en/latest/
+
+* https://www.kdnuggets.com/2017/12/baesens-web-scraping-data-science-python.html
 
 # Selva
  
