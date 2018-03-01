@@ -4,6 +4,8 @@
 
 * https://www.kdnuggets.com/2017/12/baesens-web-scraping-data-science-python.html
 
+* https://www.kdnuggets.com/2017/12/baesens-web-scraping-data-science-python.html
+
 # Selva
  
 from bs4 import BeautifulSoup
