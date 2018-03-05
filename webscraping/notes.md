@@ -6,6 +6,8 @@
 
 * https://www.kdnuggets.com/2017/12/baesens-web-scraping-data-science-python.html
 
+* https://realpython.com/blog/python/getting-started-with-the-slack-api-using-python-and-flask/
+
 # Selva
  
 from bs4 import BeautifulSoup
