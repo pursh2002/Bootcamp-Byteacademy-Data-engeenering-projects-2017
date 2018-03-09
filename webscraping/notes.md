@@ -2,6 +2,8 @@
 * [https://hackernoon.com/mastering-python-web-scraping-get-your-data-back-e9a5cc653d88
 * http://html.python-requests.org/en/latest/
 
+* https://realpython.com/blog/python/modern-web-automation-with-python-and-selenium/
+
 * https://www.kdnuggets.com/2017/12/baesens-web-scraping-data-science-python.html
 
 * https://www.kdnuggets.com/2017/12/baesens-web-scraping-data-science-python.html
