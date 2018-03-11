@@ -1,6 +1,7 @@
 * [https://www.youtube.com/watch?v=BZu8jhY5V70&feature=youtu.be
 * [https://hackernoon.com/mastering-python-web-scraping-get-your-data-back-e9a5cc653d88
 * http://html.python-requests.org/en/latest/
+* https://towardsdatascience.com/controlling-the-web-with-python-6fceb22c5f08
 
 * https://realpython.com/blog/python/modern-web-automation-with-python-and-selenium/
 
