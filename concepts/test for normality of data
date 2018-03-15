@@ -1,0 +1,13 @@
+What are some ways to test for normality of data:
+
+1. Chi-square goodness of fit test: Superimposing the distribution of sample data on a normal curve with same mean and standard deviation to verify how similar sample data curve is to the normal curve (bell-shape).
+(Things to consider: Sample size should be large)
+
+2. Lilliefors test: Comparing cdfs of sample data and normal distribution to gauge the closeness.
+
+3. Q-Q Plot: A scatterplot which compares standardized values from data with values expected from normal distribution. An angle of ~45 deg confirms normality.
+
+For frequentist statistics Lillefors test is one of the test. Other tests for this category includes jarque-Bara test,
+kolmogorov-smirnov test, Pearson's chi-square test, shapiro-wilk test, ceamer -con Mises criteria and etc. Similarly for 
+Bayesian statistics, kullback-Leibler divergences is most popular one for small sample. 
+Graphically, normality is assessed by quantiles quartile plot, popularly known as Q-Q plot..
