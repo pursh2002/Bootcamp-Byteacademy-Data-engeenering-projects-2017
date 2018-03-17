@@ -11,6 +11,8 @@ https://towardsdatascience.com/data-analytics-with-python-by-web-scraping-illust
 
 * https://realpython.com/blog/python/getting-started-with-the-slack-api-using-python-and-flask/
 
+* https://towardsdatascience.com/web-scraping-basics-selenium-and-beautiful-soup-applied-to-searching-for-campsite-availability-4a8de1decac9
+
 # Selva
  
 from bs4 import BeautifulSoup
