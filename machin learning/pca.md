@@ -37,3 +37,5 @@ https://lnkd.in/gX2ksfe
 
 [2]" NCR-PCA Matlab Code " (Zip)
 https://lnkd.in/grgPgtJ
+
+https://medium.com/@aptrishu/understanding-principle-component-analysis-e32be0253ef0
