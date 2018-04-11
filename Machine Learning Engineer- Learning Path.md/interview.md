@@ -4,3 +4,5 @@
 * https://www.kdnuggets.com/2016/10/data-preparation-tips-tricks-tools.html
 
 * https://towardsdatascience.com/data-science-interview-guide-4ee9f5dc778
+
+* https://www.datasciencecentral.com/profiles/blogs/best-dsc-forum-questions-part-8
