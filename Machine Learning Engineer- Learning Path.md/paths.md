@@ -1,6 +1,6 @@
 [https://goo.gl/PgohJQ 
 
-
+https://blog.treasuredata.com/blog/2016/03/15/self-study-list-for-data-engineers-and-aspiring-data-architects/
 
 So let's go:
 
