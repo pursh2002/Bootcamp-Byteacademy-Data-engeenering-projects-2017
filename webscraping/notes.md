@@ -13,6 +13,12 @@ https://towardsdatascience.com/data-analytics-with-python-by-web-scraping-illust
 
 * https://towardsdatascience.com/web-scraping-basics-selenium-and-beautiful-soup-applied-to-searching-for-campsite-availability-4a8de1decac9
 
+* https://www.analyticsvidhya.com/blog/2017/07/web-scraping-in-python-using-scrapy/
+
+* https://github.com/sdiehl/pycraig
+
+* http://stevenwu.info/blog_posts/cfl-part1-bs4-selenium/
+
 # Selva
  
 from bs4 import BeautifulSoup
