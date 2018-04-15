@@ -89,3 +89,5 @@ https://www.pluralsight.com/guides/python/web-scraping-with-python?gclid=Cj0KCQj
 * https://www.kdnuggets.com/2018/02/web-scraping-tutorial-python.html
 
 *http://www.techbeamers.com/selenium-webdriver-python-tutorial/
+
+* https://data-lessons.github.io/library-webscraping/
