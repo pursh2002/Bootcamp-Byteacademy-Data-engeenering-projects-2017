@@ -85,3 +85,5 @@ for i in range(reg_start,reg_end+1):
 csv_file.close()
 
 https://www.pluralsight.com/guides/python/web-scraping-with-python?gclid=Cj0KCQjw8MvWBRC8ARIsAOFSVBXRPNwKti4vAFSmueoagrk_PKg0kfm_hPAEJ0ItwbyJBtCHnUfQ1aoaAnrMEALw_wcB&aid=7010a000002BWq6AAG&promo=&oid=&utm_source=non_branded&utm_medium=digital_paid_search_google&utm_campaign=APAC_Dynamic&utm_content=&s_kwcid=AL!5668!3!247592797107!b!!g!!&ef_id=WlopWQAAA4CS_2O4:20180415191617:s
+
+* https://www.kdnuggets.com/2018/02/web-scraping-tutorial-python.html
