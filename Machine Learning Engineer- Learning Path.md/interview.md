@@ -8,3 +8,5 @@
 * https://www.datasciencecentral.com/profiles/blogs/best-dsc-forum-questions-part-8
 
 * https://www.kdnuggets.com/2018/03/survive-data-science-interview.html
+
+* https://www.linkedin.com/pulse/ultimate-guide-200-tableau-interview-question-answers-sateesh-kumar/
