@@ -91,3 +91,38 @@ https://www.pluralsight.com/guides/python/web-scraping-with-python?gclid=Cj0KCQj
 *http://www.techbeamers.com/selenium-webdriver-python-tutorial/
 
 * https://data-lessons.github.io/library-webscraping/
+
+The Internet is your database if you know Web Scraping.
+
+Here are some great resources to get started: 
+
+- - -
+(**) - Recommended
+
+➤ How to Scrape Websites with Python & BeautifulSoup (**)
+https://lnkd.in/g96Mxaw
+
+➤ Web Scraping, Regular Expressions, & Data Visualization: Doing it All in Python (**)
+https://lnkd.in/gmpw2QE
+
+➤ A Short-Practical HOW-TO Guide to Webscrape with Python (**)
+https://lnkd.in/gYqsWs9
+
+➤ Intro to Web Scraping with Python and Beautiful Soup (**)
+https://lnkd.in/gfVMMrh
+
+➤ Webscraping with Python Tips & Tricks
+https://lnkd.in/gimeCYD
+
+➤ Webscraping Using Scrapy 
+https://lnkd.in/gEvVWvn
+
+➤ Data Quest Python API Tutorial 
+https://lnkd.in/gsXw_hh
+
+➤ Codeacademy - How to Use APIs in Python (**)
+https://lnkd.in/gX7gUBb
+
+➤ List of Python APIs
+https://lnkd.in/gPr5rWf
+
